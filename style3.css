@@ -1,0 +1,58 @@
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: coral;
+}
+.box2{
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+}
+.padded text{
+    padding: 20px;
+}
+.custom-padding{
+    padding: 10px 20px;
+}
+.border-box{
+    border: 2px black;
+}
+.rounded-border{
+    border: 3px dotted black;
+    border-radius: 15px;
+}
+.marging-text{
+    
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right:20px ;
+}
+.custom-marging{
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+.inline element{
+    display: inline;
+}
+.block{
+    display: block;
+}
+.inline{
+    display: inline-block;
+}
+.hidden{
+    display: none;
+}
+.visible{
+    visibility: visible;
+}
+.invisible{
+    visibility: hidden;
+}
+.transparent {
+    background-color: blueviolet;
+    opacity: 0.5;
+}
